@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="welcome">Welcome .</string>
+    <string name="welcome_message">Welcome to our app, where dreams become reality. Unleash your potential and conquer new heights. Let\'s embark on this incredible journey together. Enjoy the ride!</string>
+    <string name="show_text_list">Show List</string>
+    <string name="show_storage_manager">Show Storage Manager</string>
+    <string name="aviral_kaushik">Aviral Kaushik</string>
+    <string name="list_of_name">List of Name</string>
+    <string name="storage_manager">Storage Manager</string>
+    <string name="enter_text_to_be_stored_in_shared_preferences">Enter text to be stored in shared preferences</string>
+    <string name="enter_text_her">Enter Text Here</string>
+    <string name="add_data_to_shared_preferences">Add Data to Preferences</string>
+</resources>
